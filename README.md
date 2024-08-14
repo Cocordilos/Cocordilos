@@ -93,6 +93,6 @@
 <br>
 
 ## 🤝 Контакт
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)]([https://t.me/s0cl0se](https://web.telegram.org/k/#@s0cl0se)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/s0cl0se)
 
-<!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
+
