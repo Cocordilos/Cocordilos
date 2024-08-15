@@ -80,7 +80,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Cocordilos/Cocordilos/main/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.png)
+[<img src="/диплом.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Cocordilos/Cocordilos/main/%D0%B4%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC.png)
 
 <br>
 <br>
